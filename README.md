@@ -1,6 +1,6 @@
 # crackhashes
 
-As per our new post on teh 17th October abotu cracking hashes, try to figure out the below hashes, the last one is a bit of a challenge+
+As per our new post on the 17th October abotu cracking hashes, try to figure out the below hashes, the last one is a bit of a challenge:
 
 161ebd7d45089b3446ee4e0d86dbcf92
 
